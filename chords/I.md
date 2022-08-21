@@ -15,7 +15,8 @@ The plagal cadence is another form of final cadence. It should also be arranged 
 
 
 **Cadences that may involve I**  
-> Imperfect cadence: I - [V](V.md)
+> Imperfect cadence: I - [V](V.md)  
+
 The imperfect cadence is a musical semicolon. The rhythm may be weak to strong or strong to weak depending on context.  
 
 ## In first inversion
