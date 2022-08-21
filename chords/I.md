@@ -4,9 +4,9 @@
 ### As part of a cadence
 
 **Cadences that resolve on I**  
-> Perfect cadence: [V](V.md) - I
+> Perfect cadence: [V](V.md) - I  
 The perfect cadence is a musical full stop that concludes a phrase. It should be arranged so that chord I falls on a strong beat.  
-> Plagal cadence: [IV](IV.md) - I
+> Plagal cadence: [IV](IV.md) - I  
 The plagal cadence is another form of final cadence. It should also be arranged from weak to strong.
 
 **Cadences that may involve I**  
